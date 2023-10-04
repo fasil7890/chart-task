@@ -1,0 +1,15 @@
+body{
+  background-color: #f7f2e4;
+}
+.app-chart{
+  margin-top: 20px;
+  padding: 30px;
+}
+.app-title{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.app-task{
+  font-weight: bolder;
+}
